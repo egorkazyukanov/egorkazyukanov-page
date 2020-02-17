@@ -13,8 +13,8 @@
     },
     {
         "id": 3,
-        "title": "Новый раздел",
-        "description": "Описание нового раздела",
-        "preview": "img/new-diagram.png"
+        "title": "Мой план",
+        "description": "План работы в семестре",
+        "preview": "https://tcblog.ru/wp-content/uploads/2018/03/6294B334-7A0A-46DB-8DA5-4D0DD8127CD4.jpeg"
     }
 ]
