@@ -1,44 +1,24 @@
 {
-    "title": "Мой план",
+    "title": "РњРѕР№ РїР»Р°РЅ",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "План работы в семестре",
+                    "text": "РџР»Р°РЅ СЂР°Р±РѕС‚С‹ РІ СЃРµРјРµСЃС‚СЂРµ",
                     "class": "md-title"
                 }
             ]
         },
         {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Диаграмма создана с помощью "
-                },
-                {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
-                }
-            ]
-        },
-        {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "https://www.fresher.ru/manager_content/images/bolshoj-palec-vverx-vmesto-oruzhiya/2.jpg"
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Постусловия",
+                    "text": "РџРѕСЃС‚СѓСЃР»РѕРІРёСЏ",
                     "class": "md-title"
                 }
             ]
@@ -47,13 +27,13 @@
             "type": "list",
             "data": [
                 [{
-                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
+                    "text": "СЃС„РѕСЂРјРёСЂРѕРІР°РЅР° Р»РёС‡РЅР°СЏ СЃС‚СЂР°РЅРёС†Р° СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј HTML, CSS, JS"
                 }],
                 [{
-                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
+                    "text": "РЅР° Р»РёС‡РЅРѕР№ СЃС‚СЂР°РЅРёС†Рµ Р·Р°СЂРµР·РµСЂРІРёСЂРѕРІР°РЅС‹ РјРµСЃС‚Р° РґР»СЏ РѕРїРёСЃР°РЅРёСЏ СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ РІСЃРµС… СЃР»РµРґСѓСЋС‰РёС… Р»Р°Р±РѕСЂР°С‚РѕСЂРЅС‹С… СЂР°Р±РѕС‚"
                 }],
                 [{
-                    "text": "ссылка на личную страницу записана в списке группы"
+                    "text": "СЃСЃС‹Р»РєР° РЅР° Р»РёС‡РЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ Р·Р°РїРёСЃР°РЅР° РІ СЃРїРёСЃРєРµ РіСЂСѓРїРїС‹"
                 }]
             ]
         }
