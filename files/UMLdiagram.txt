@@ -1,0 +1,48 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor M as "Работник бухгалтерии"
+actor M0 as "Человек"
+actor G as "Администратор"
+actor T as "Транзакции БД"
+
+package APP as "Система автоматизированного учета операционной деятельности производства электротехнического оборудования"{
+usecase A as "Управление поставками комплектующих"
+usecase B as "Сбыт продукции"
+usecase C as "Информация о статусе производства продуктов"
+usecase D as "Управление ценообразованием"
+usecase E as "Добавление и снятие продуктов с производства"
+usecase F as "Контроль над производственными предприятиями"
+usecase H as "Ведение информации о поставщиках"
+usecase I as "Ведение информации о ритейлерах"
+}
+G --|> (E)
+M0 --|> M
+M0 --|> G
+M --|> A
+M --|> B
+M --|> C
+M --|> D
+G --|> D
+G --|> E
+G --|> F
+G --|> H
+G --|> I
+A <|-- T
+B <|-- T
+C <|-- T
+D <|-- T
+E <|-- T
+F <|-- T
+H <|-- T
+I <|-- T
+@enduml
