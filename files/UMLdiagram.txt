@@ -12,7 +12,7 @@ skinparam usecase {
 left to right direction
 actor M as "Разработчик"
 actor M0 as "Куратор"
-actor G as "Visual Studio"
+actor G as "Среда разработки"
 actor T as "СУБД"
 actor J as "Программные средства"
 
