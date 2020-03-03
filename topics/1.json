@@ -131,8 +131,8 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма USE Case"
-					"class": "md-title"
+                    "text": "Диаграмма USE Case",
+		    "class": "md-title"
                 }
             ]
         },
