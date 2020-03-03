@@ -5,7 +5,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Лабораторная работа №1",
+                    "text": "Лабораторная работа №1: Разметка личной страницы, разработка UML диаграммы прецедентов",
                     "class": "md-title"
                 }
             ]
@@ -14,8 +14,8 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Файл диаграммы",
-                    "link": "https://github.com/egorkazyukanov/egorkazyukanov-page/blob/master/files/UMLdiagram.txt"
+                    "text": "Идентификатор прецедента",
+                    "class": "md-title"
                 }
             ]
         },
@@ -23,15 +23,78 @@
             "type": "text",
             "data": [
                 {
-                    "text": "(Здесь будет очень важный текст лабораторной работы)"
+                    "text": "Выпускная Квалификационная Работа"
                 }
             ]
         },
         {
-            "type": "image",
-            "data": "img/UMLdiagram.png"
+            "type": "text",
+            "data": [
+                {
+                    "text": "Название прецедента",
+                    "class": "md-title"
+                }
+            ]
         },
         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Разработка системы автоматизированного учета операционной деятельности производства электротехнического оборудования"
+                }
+                    ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Контекст",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Прикладная работа"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Участники и цели",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/UseCase.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Предусловия",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "задание от научного руководителя"
+                }],
+				[{
+				    "text": "план разработки ВКР"
+				}]
+            ]
+        },
+	    {
             "type": "text",
             "data": [
                 {
@@ -44,15 +107,78 @@
             "type": "list",
             "data": [
                 [{
-                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
+                    "text": "разработано приложение для упрощения управления производственным предприятием"
                 }],
-                [{
-                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
-                }],
-                [{
-                    "text": "ссылка на личную страницу записана в списке группы"
-                }]
+				[{
+				    "text": "подготовлена база данных для работоспособности приложения"
+				}]
             ]
-        }
+        },
+	    {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Основной поток",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+          "type": "image",
+          "data": "img/UseCase.png"
+        },
+                {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма USE Case"
+					"class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Файл диаграммы",
+                    "link": "https://github.com/egorkazyukanov/egorkazyukanov-page/blob/master/files/UMLdiagram.txt"
+                }
+            ]
+        },
+		{
+            "type": "image",
+            "data": "img/UseCase.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ЛР2: Заполнение личной страницы, разработка UML Class",
+                    "class": "md-title"
+                }
+                    ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма классов",
+                    "class": "md-title"
+                }
+                    ]
+        },
+        {
+          "type": "image",
+          "data": "img/UseCase.png"
+        },
+        {
+         "type": "link",
+            "data": [
+                {
+                    "text": "PlantUML",
+                    "link": "https://plantuml.com"
+                }
+                    ]
+        },
     ]
 }
