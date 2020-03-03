@@ -114,12 +114,25 @@
 				}]
             ]
         },
+	    	    {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Основной поток",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+          "type": "image",
+          "data": "img/UseCase.png"
+        },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Файл диаграммы",
-                    "link": "https://github.com/egorkazyukanov/egorkazyukanov-page/blob/master/files/UMLdiagram.txt"
+                    "text": "Диаграмма USE Case",
+					"class": "md-title"
                 }
             ]
         },
@@ -127,7 +140,8 @@
             "type": "text",
             "data": [
                 {
-                    "text": "(Здесь будет очень важный текст лабораторной работы)"
+                    "text": "Файл диаграммы",
+                    "link": "https://github.com/egorkazyukanov/egorkazyukanov-page/blob/master/files/UMLdiagram.txt"
                 }
             ]
         },
