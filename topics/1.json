@@ -60,7 +60,40 @@
                     "text": "Прикладная работа"
                 }
             ]
-        }, 
+        },
+                {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Участники и цели",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/UseCase.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Предусловия",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "задание от научного руководителя"
+                }],
+				[{
+				    "text": "план разработки ВКР"
+				}]
+            ]
+        },
         {
             "type": "text",
             "data": [
