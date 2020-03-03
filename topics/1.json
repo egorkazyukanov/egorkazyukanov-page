@@ -172,5 +172,36 @@
                 }]
             ]
         }
+	        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ЛР2: Заполнение личной страницы, разработка UML Class",
+                    "class": "md-title"
+                }
+                    ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма классов",
+                    "class": "md-title"
+                }
+                    ]
+        },
+        {
+          "type": "image",
+          "data": "img/UseCase.png"
+        },
+        {
+         "type": "link",
+            "data": [
+                {
+                    "text": "PlantUML",
+                    "link": "https://plantuml.com"
+                }
+                    ]
+        },
     ]
 }
