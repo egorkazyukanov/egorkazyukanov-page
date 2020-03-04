@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "title": "Лабораторные работы",
-        "description": "Отчеты лабораторных работ",
+        "title": "Лабораторная работа №1",
+        "description": "Разметка личной страницы, разработка UML Use Case",
         "preview": "img/bezlab.jpg"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "Лабораторная работа №2",
+        "description": "Заполнение личной страницы, разработка UML Class",
+        "preview": "img/UMLclass.jpeg
     },
     {
         "id": 3,
