@@ -2,25 +2,19 @@
     {
         "id": 1,
         "title": "Лабораторная работа №1",
-        "description": "Разметка личной страницы, разработка UML Use Case",
+        "description": "Что-то для первой работы",
         "preview": "img/USEcase.jpg"
     },
     {
         "id": 2,
         "title": "Лабораторная работа №2",
-        "description": "Заполнение личной страницы, разработка UML Class",
+        "description": "Вторая работа, да, она была",
         "preview": "img/UMLclass.jpeg"
     },
     {
         "id": 3,
-        "title": "Мой план",
-        "description": "План работы в семестре",
-        "preview": "https://tcblog.ru/wp-content/uploads/2018/03/6294B334-7A0A-46DB-8DA5-4D0DD8127CD4.jpeg"
-    },
-    {
-        "id": 4,
-        "title": "Семинары",
-        "description": "Задания семинаров",
+        "title": "Лабораторная работа №3",
+        "description": "Лабораторная работа №3 (да, ещё раз)",
         "preview": "https://avatars.mds.yandex.net/get-zen_doc/1720666/pub_5df552bc433ecc00b17de3b8_5df5d7b89c944600ad942fd3/scale_1200"
     }
 ]
